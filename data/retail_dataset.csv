@@ -1,0 +1,12 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Payment_Method
+101,22,male,Electronics,500,Cash
+102,25,Female,clothing,150,card
+103,,Male,Electronics,700,Card
+104,28,Female,Grocery,,Cash
+105,35,M,Clothing,200,Card
+106,40,Female,Electronics,1200,Online
+107,29,male,Grocery,60,cash
+108,31,Female,Clothing,180,Online
+109,45,Male,Electronics,900,Card
+109,45,Male,Electronics,900,Card
+110,-27,Female,Grocery,90,Cash
